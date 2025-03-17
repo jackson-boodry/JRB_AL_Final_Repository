@@ -1,0 +1,798 @@
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05 0.05 0.03 0.5  0.03 0.07]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07      ]
+Configuration params: [2 0 0 1 1 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.06403771 0.035298   0.03       0.38943249 0.03       0.05464565]
+Configuration params: [3 0 0 0 0 2]
+
+Best Robot of Generation 0:
+Robot index: 1
+Best loss: -0.25821802020072937
+Best parameters: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 1 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07      ]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07      ]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07      ]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 544
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07      ]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.04271724 0.04973705 0.04352711 0.76208976 0.03291402 0.08062794]
+Configuration params: [2 0 0 1 0 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.05862148 0.035      0.13279002 0.33842019 0.02681158 0.04904078]
+Configuration params: [2 0 0 0 0 2]
+
+Best Robot of Generation 0:
+Robot index: 0
+Best loss: -0.20572899281978607
+Best parameters: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 1 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07      ]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.03703029 0.03863009 0.03449276 0.63662021 0.03727828 0.05060365]
+Configuration params: [2 0 0 1 1 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.03949233 0.03863009 0.03       0.71887767 0.03221682 0.08204751]
+Configuration params: [2 0 0 0 0 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 544
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07      ]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 544
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07      ]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 770
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05374603 0.04824537 0.04307827 0.49204178 0.03042509 0.07229812]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 344
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03       0.03       0.03191328 0.49482307 0.0408659  0.03242723]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 544
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07      ]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 544
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07      ]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 544
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07      ]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 544
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07      ]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.04058986 0.035      0.03       0.80578898 0.03276415 0.08731926]
+Configuration params: [2 0 0 0 0 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 544
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03449276 0.63662021 0.03727828 0.07      ]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206 ]
+Configuration params: [2 0 0 1 1 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.04093837 0.035      0.03       0.63662021 0.04651927 0.08465846]
+Configuration params: [2 0 0 1 0 2]
+
+Best Robot of Generation 0:
+Robot index: 1
+Best loss: -0.3840394914150238
+Best parameters: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 1 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206 ]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 504
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206 ]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 504
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206 ]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.05       0.04924633 0.03       0.52765774 0.04690867 0.0603873 ]
+Configuration params: [2 0 0 1 0 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.05       0.035      0.08839421 0.41310503 0.04690867 0.04397056]
+Configuration params: [2 0 0 0 0 2]
+
+Best Robot of Generation 0:
+Robot index: 0
+Best loss: -0.427060067653656
+Best parameters: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 1 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206 ]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.05       0.035      0.03460272 0.32054718 0.04690867 0.05522526]
+Configuration params: [2 0 0 0 0 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03       0.58412837 0.03660772 0.04410478]
+Configuration params: [2 0 0 0 0 2]
+
+Best Robot of Generation 1:
+Robot index: 0
+Best loss: -0.4392712414264679
+Best parameters: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 2 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206 ]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03327444 0.52765774 0.04690867 0.03842757]
+Configuration params: [2 0 0 1 1 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.03952769 0.035      0.03       0.52765774 0.05382541 0.06133991]
+Configuration params: [2 0 0 1 1 2]
+
+Best Robot of Generation 2:
+Robot index: 0
+Best loss: -0.43450260162353516
+Best parameters: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 3 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206 ]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.04352638 0.04906251 0.0898443  0.38544978 0.05592415 0.06221012]
+Configuration params: [2 0 0 1 0 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.03663927 0.03863009 0.03790978 0.21828515 0.049036   0.0542206 ]
+Configuration params: [2 0 0 1 0 2]
+
+Best Robot of Generation 3:
+Robot index: 0
+Best loss: -0.4315955936908722
+Best parameters: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 4 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206 ]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.05       0.04311731 0.03       0.62489846 0.03312806 0.0542206 ]
+Configuration params: [2 0 0 1 1 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.05       0.035      0.06055453 0.52765774 0.04690867 0.04384908]
+Configuration params: [2 0 0 1 0 2]
+
+Best Robot of Generation 4:
+Robot index: 0
+Best loss: -0.44823554158210754
+Best parameters: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 5 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206 ]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.05729432 0.03863009 0.03       0.52765774 0.06493644 0.06660755]
+Configuration params: [2 0 0 0 0 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03       0.45885868 0.04690867 0.08586952]
+Configuration params: [2 0 0 1 0 2]
+
+Best Robot of Generation 5:
+Robot index: 0
+Best loss: -0.4406397342681885
+Best parameters: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 6 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206 ]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.05772333 0.03863009 0.03       0.44031449 0.04690867 0.04567378]
+Configuration params: [2 0 0 1 0 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.06493381 0.03863009 0.03705886 0.52765774 0.04690867 0.0635227 ]
+Configuration params: [2 0 0 0 0 2]
+
+Best Robot of Generation 6:
+Robot index: 0
+Best loss: -0.2798949182033539
+Best parameters: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 7 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.03863009 0.03       0.52765774 0.04690867 0.0542206 ]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.05       0.035      0.03       0.64064484 0.03844292 0.06235132]
+Configuration params: [2 0 0 1 1 2]
+
+================================================================================
+NEW EVOLUTION RUN STARTED
+================================================================================
+
+Initial robot particle count (MAX_PARTICLES): 504
+
+
+---------------------------------------- Generation 0 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.05       0.04311731 0.03       0.62489846 0.03312806 0.0542206 ]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.03       0.57552846 0.0567613  0.04090512]
+Configuration params: [2 0 0 1 1 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.04053753 0.035      0.10647679 0.76387227 0.04641718 0.048128  ]
+Configuration params: [2 0 0 1 0 2]
+
+Best Robot of Generation 0:
+Robot index: 1
+Best loss: -0.29037171602249146
+Best parameters: [0.03851529 0.035      0.03       0.57552846 0.0567613  0.04090512
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 1 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.03       0.57552846 0.0567613  0.04090512]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.0488597  0.035      0.03       0.42913085 0.09630925 0.05296371]
+Configuration params: [2 0 0 1 0 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875]
+Configuration params: [2 0 0 1 1 2]
+
+Best Robot of Generation 1:
+Robot index: 2
+Best loss: -0.3651808202266693
+Best parameters: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 2 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.03       0.48791586 0.04025079 0.05315875]
+Configuration params: [2 0 0 1 0 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.04951643 0.035      0.0336775  0.35598693 0.04954107 0.06509192]
+Configuration params: [2 0 0 0 0 2]
+
+Best Robot of Generation 2:
+Robot index: 0
+Best loss: -0.418997198343277
+Best parameters: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 3 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.03851529 0.04005703 0.04311663 0.47687992 0.03546622 0.05315875]
+Configuration params: [3 0 0 1 0 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.03835992 0.41505275 0.04954107 0.04743206]
+Configuration params: [3 0 0 1 0 2]
+
+Best Robot of Generation 3:
+Robot index: 0
+Best loss: -0.4200000762939453
+Best parameters: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 4 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.035      0.035      0.0336775  0.17575928 0.04429102 0.05315875]
+Configuration params: [3 0 0 0 0 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.04308743 0.03915699 0.0336775  0.38207736 0.04083022 0.05315875]
+Configuration params: [2 0 0 1 0 2]
+
+Best Robot of Generation 4:
+Robot index: 0
+Best loss: -0.41434064507484436
+Best parameters: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 5 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.04927919 0.04496054 0.03       0.61205031 0.07792124 0.05315875]
+Configuration params: [2 0 0 1 0 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875]
+Configuration params: [2 0 0 1 1 2]
+
+Best Robot of Generation 5:
+Robot index: 0
+Best loss: -0.41731905937194824
+Best parameters: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 6 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.03851529 0.04169281 0.0808263  0.41022714 0.03692285 0.04780572]
+Configuration params: [2 0 0 1 0 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.035      0.035      0.0336775  0.48791586 0.04497187 0.05913546]
+Configuration params: [2 0 0 0 0 2]
+
+Best Robot of Generation 6:
+Robot index: 0
+Best loss: -0.4049836993217468
+Best parameters: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 7 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.04271901 0.035      0.14200425 0.48791586 0.04954107 0.03758478]
+Configuration params: [2 0 0 0 0 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.035      0.04546509 0.03       0.47675059 0.06392181 0.04620334]
+Configuration params: [2 0 0 0 0 2]
+
+Best Robot of Generation 7:
+Robot index: 0
+Best loss: -0.3968513607978821
+Best parameters: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 8 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.03851529 0.04371973 0.0336775  0.48791586 0.04954107 0.04294925]
+Configuration params: [2 0 0 1 0 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.09134781 0.035      0.06389881 0.60569568 0.04125585 0.06092277]
+Configuration params: [2 0 0 0 0 2]
+
+Best Robot of Generation 8:
+Robot index: 0
+Best loss: -0.4134005010128021
+Best parameters: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875
+ 2.         0.         0.         1.         1.         2.        ]
+
+
+---------------------------------------- Generation 9 ----------------------------------------
+
+Robot 0 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.0336775  0.48791586 0.04954107 0.05315875]
+Configuration params: [2 0 0 1 1 2]
+Robot 1 Starting Parameters:
+Optimization params: [0.03851529 0.035      0.0336775  0.38426973 0.04430574 0.04278268]
+Configuration params: [2 0 0 1 1 2]
+Robot 2 Starting Parameters:
+Optimization params: [0.06106437 0.035      0.05773923 0.15623436 0.06204232 0.04374152]
+Configuration params: [2 0 0 1 0 2]
+
+Best Robot of Generation 9:
+Robot index: 1
+Best loss: -0.417881578207016
+Best parameters: [0.03851529 0.035      0.0336775  0.38426973 0.04430574 0.04278268
+ 2.         0.         0.         1.         1.         2.        ]
+
